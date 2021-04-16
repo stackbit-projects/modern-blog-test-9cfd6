@@ -53,7 +53,7 @@ var demo = (function (window) {
             height: window.innerHeight,
             cell_size: 60,
             variance: 1.5,
-            stroke_width: 1,
+            stroke_width: 0.7,
             x_colors: 'BuPu',
             y_colors: 'RdPu'
         }).svg(); // Render as SVG.

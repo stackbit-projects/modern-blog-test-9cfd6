@@ -54,7 +54,7 @@ var demo = (function (window) {
             cell_size: 90,
             variance: 1,
             stroke_width: 1,
-            x_colors: 'BuPu',
+            x_colors: 'Red',
             y_colors: 'RdPu'
         }).svg(); // Render as SVG.
 

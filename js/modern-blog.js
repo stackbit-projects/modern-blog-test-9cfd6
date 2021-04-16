@@ -55,7 +55,7 @@ var demo = (function (window) {
             variance: 1,
             stroke_width: 1,
             x_colors: 'BuPu',
-            y_colors: 'random'
+            y_colors: 'RdPu'
         }).svg(); // Render as SVG.
 
         _mapPolygons(pattern);
